@@ -1,4 +1,4 @@
-import multiply, { add, subtract, addAndLogUpper } from './mathModule.js';
+import { multiply, add, subtract, addAndLogUpper } from './mathModule.js';
 import { toUpperCase, toLowerCase } from './stringModule.js';
 import { findMax, reverseArray } from './arrayModule.js';
 
